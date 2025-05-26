@@ -1,0 +1,15 @@
+[submodule "1-otp-psm"]
+	path = 1-otp-psm
+	url = https://github.com/aedancullen/hacking-the-rp2350
+[submodule "2-vector-boot"]
+	path = 2-vector-boot
+	url = https://github.com/mariusmue/rp2350-challenge-attack-poc.git
+[submodule "3-laser-fault-injection"]
+	path = 3-laser-fault-injection
+	url = https://github.com/courk/rp2350-lfi.git
+[submodule "5-antifuse-data-extraction"]
+	path = 5-antifuse-data-extraction
+	url = https://github.com/lainy/rp2350-scripts
+[submodule "4-double-glitch"]
+	path = 4-double-glitch
+	url = https://github.com/nezza/rp2350-double-glitch/
